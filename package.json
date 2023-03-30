@@ -1,0 +1,34 @@
+{
+  "name": "yummly-api-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start" : "node src/app.js",
+    "dev" : "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinsuyitaiwo/yummly-API-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akinsuyitaiwo/yummly-API-/issues"
+  },
+  "homepage": "https://github.com/akinsuyitaiwo/yummly-API-#readme",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "luxon": "^3.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-google": "^0.14.0",
+    "nodemon": "^2.0.22"
+  }
+}
