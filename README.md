@@ -1,1 +1,2 @@
-# yummly-API-
+# yummly-API
+
